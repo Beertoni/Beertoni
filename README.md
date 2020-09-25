@@ -1,4 +1,5 @@
 ### Hi there 👋
+*⚡ dev in Java with Eclipse / Visual Studio Code ⚡
 
 <!--
 **Beertoni/Beertoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
