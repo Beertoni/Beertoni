@@ -1,6 +1,6 @@
 ### Hi there 👋
 ⚡ dev in Java with Eclipse / Visual Studio Code ⚡
-
+👾 Java / JSP / JSTL / JDBC / Servlet / Scriptlet / HTML / CSS/ JavaScript / PostGreSQL 👾  
 
 ### Connect with me:
 
