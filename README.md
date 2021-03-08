@@ -1,5 +1,5 @@
 ### Hi there 👋
-⚡ dev in Java with Eclipse / Visual Studio Code ⚡<br />
+⚡ dev in Java with InteliJ IDEA / Eclipse ⚡<br />
 👾 Java / JSP / JSTL / JDBC / Servlet / Scriptlet / HTML / CSS/ JavaScript / PostGreSQL 👾  
 
 ### Connect with me:
