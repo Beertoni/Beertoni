@@ -22,6 +22,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+<img align="left" alt="intelij" width="26px" src="https://github.com/Beertoni/Beertoni/blob/master/icons8-intellij-idea.svg" />
 <!--
 <img align="left" alt="intellij" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
 <img align="left" alt="netbeans" width="26px" src="https://img.icons8.com/windows/32/000000/netbeans.png" />
@@ -29,9 +30,6 @@
 <img align="left" alt="python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="pycharm" width="26px" src="https://img.icons8.com/color/48/000000/pycharm.png" />
 -->
-<img align="left" alt="css" width="26px" src="https://github.com/Beertoni/Beertoni/blob/master/css-3.svg" />
-<img align="left" alt="html" width="26px" src="https://github.com/Beertoni/Beertoni/blob/master/html-5.svg" />
-<img align="left" alt="c" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="eclipse" width="26px" src="https://github.com/Beertoni/Beertoni/blob/master/java-eclipse.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
