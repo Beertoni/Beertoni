@@ -12,7 +12,7 @@
 <br />
 
 ### Languages and Tools:
-<br />
+
 
 <img align="left" alt="java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 <img align="left" alt="intelij" width="26px" src="https://github.com/Beertoni/Beertoni/blob/master/icons8-intellij-idea.svg" />
