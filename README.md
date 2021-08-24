@@ -43,3 +43,10 @@ I'm passionate about technology and I'm always looking to evolve and stand out i
 ---
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Beertoni&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beertoni&layout=compact&show_icons=true&theme=dark)](https://github.com/Beertoni/github-readme-stats)
+
+<div> 
+	### Animation:
+
+  ![Snake animation](https://github.com/Beertoni/snake/blob/main/github-contribution-grid-snake.svg)
+ 
+</div>
