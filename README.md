@@ -5,7 +5,7 @@
 
 ### A little about myself
 
-My name is Gustavo Henrique Bertoni, I am 19 years old and I started to develop in February 2020.
+My name is Gustavo Henrique Bertoni, I am 20 years old and I started to develop in February 2020.
 I'm passionate about technology and I'm always looking to evolve and stand out in what I do :p
 
 ### Connect with me:
